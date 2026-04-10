@@ -57,5 +57,5 @@ Data Sanitization: Removing unwanted characters, spaces, or symbols from user in
 Content Filtering: Censoring specific words or stripping special characters to generate URL-friendly "slugs."
 
 Final Result:
-td cnc srb sprfl sf hvvsc cncdncm dmt ntr prnc  ssnc ds css*/ 
+td cnc srb sprfl sf hvvsc cncdncm dmt ntr prnc  ssnc ds css */ 
 

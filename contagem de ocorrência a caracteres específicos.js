@@ -51,4 +51,4 @@ CSV Processing: Counting how many commas exist in a line to validate the structu
 
 Nota Técnica / Technical Note:
 Este código é case-sensitive. Ele contará apenas o "a" minúsculo. Para contar tanto "a" quanto "A", 
-o código precisaria de uma Expressão Regular ou de uma conversão prévia para minúsculas: frase.toLowerCase().split("a").
+o código precisaria de uma Expressão Regular ou de uma conversão prévia para minúsculas: frase.toLowerCase().split("a"). */

@@ -59,4 +59,4 @@ Matrix Processing: Organizing data into row-and-column structures.
 Grouping Algorithms: Splitting tasks or items into subgroups based on their magnitude.
 
 Resultado Final / Final Result:
-[ [1, 2, 3], [1], [1, 2], [1, 2, 3, 4, 5] ]
+[ [1, 2, 3], [1], [1, 2], [1, 2, 3, 4, 5] ] */

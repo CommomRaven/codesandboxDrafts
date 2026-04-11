@@ -60,4 +60,4 @@ adds the two internal values of each one together, and accumulates the total in 
 ---
 
 ### Cálculo Interno / Internal Calculation:
-$(3+7) + (5+2) + (8+4) + (1+9) + (6+3) = 10 + 7 + 12 + 10 + 9 = \mathbf{48}$
+$(3+7) + (5+2) + (8+4) + (1+9) + (6+3) = 10 + 7 + 12 + 10 + 9 = \mathbf{48}$ */
